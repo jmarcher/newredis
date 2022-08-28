@@ -1,0 +1,3 @@
+/Users/joaquinmarcher/CLionProjects/new_redis/cmake-build-debug/CMakeFiles/new_redis.dir
+/Users/joaquinmarcher/CLionProjects/new_redis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joaquinmarcher/CLionProjects/new_redis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
